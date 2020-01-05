@@ -1,4 +1,5 @@
-
+![](/images/Untitled.png)
+>>
 ## Please follow the steps below to run this web app:
 ## 1. Run: python3 app.py
 
@@ -8,4 +9,4 @@
 
 ## 4. If you see a table with columns the app is working fine.
 >>>
-![](/images/Untitled.png)
+
