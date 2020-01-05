@@ -2,7 +2,7 @@
 ![](/images/Untitled.png)
 >>
 ## Please follow the steps below to run this web app:
-## 1. pip install -r requirements.txt 
+## 1. pip install -r requirements.txt **Run: python3 app.py**
 
 ## 2. Go to localhost:5000 and you should see the webpage
 
@@ -10,4 +10,4 @@
 
 ## 4. If you see a table with columns the app is working fine.
 >>>
-<span style="text-decoration:underline">Run: python3 app.py</span>
+
