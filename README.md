@@ -2,7 +2,7 @@
 ![](/images/Untitled.png)
 >>
 ## Please follow the steps below to run this web app:
-## 1. pip install -r requirements.txt <em> Run: python3 app.py</em>
+## 1. pip install -r requirements.txt <strong> Run: python3 app.py</strong>
 
 ## 2. Go to localhost:5000 and you should see the webpage
 
